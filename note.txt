@@ -1,0 +1,7 @@
+PHP este instalat pe server si este accesat cu ajutorul unui browser.
+
+HTTP este un set de reguli de comunicare intre client browser si server.
+
+Comunicarea HTTPS este criptata.
+
+Diferenta dintre print si echo
